@@ -1,0 +1,5 @@
+1.Display the contents available
+2.Take order
+3.Apply any offers available
+4.Show the Total price
+5.Exit
